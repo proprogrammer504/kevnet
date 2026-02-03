@@ -1,0 +1,1 @@
+no LLM usage, strictly created with math articles, wikipedia, and library documentation
